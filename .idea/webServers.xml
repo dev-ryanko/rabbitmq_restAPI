@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a2d84cee-a36d-4c52-a135-0651d028d1e0" name="mqtt">
+        <fileTransfer rootFolder="/home/ubuntu" accessType="SFTP" host="18.162.209.111" port="22" sshConfigId="0af0f260-6db3-43f9-b541-3d85dea3b895" sshConfig="mqtt_ssh" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
